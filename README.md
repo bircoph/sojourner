@@ -30,7 +30,7 @@ Uploading
 ---------
 The package upload process is described [here](http://wiki.maemo.org/Uploading_to_Extras-devel).
 
-I use [extras assistant](https://garage.maemo.org/extras-assistant/index.php). After uploading the package is quickly available in extras-devel repo, but updating [package website](http://maemo.org/packages/view/sojourner/) takes few hours.
+I use [extras assistant](https://garage.maemo.org/extras-assistant/index.php). After uploading the package will be available in extras-devel repo and on [package website](http://maemo.org/packages/view/sojourner/) within few hours. Do not try to upload twice, because the hash will not match. After image is tested it can be promoted by chosing desired version and clicking Promote.
 
 Adding a conference
 -------------------

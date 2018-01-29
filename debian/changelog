@@ -1,8 +1,15 @@
-sojourner (0.3.4) fremantle; urgency=low
+sojourner (0.3.5) fremantle; urgency=low
 
   * Added conference data for FOSDEM 2017.
 
  -- Andrew Savchenko <bircoph@gmail.com>  Thu, 30 Jan 2017 18:00:00 +0300
+
+sojourner (0.3.4) fremantle; urgency=low
+
+  * Add Gimp FOSDEM image
+  * Update README
+
+ -- Jarek Lipski <pub@loomchild.net>  Thu, 27 Jan 2016 18:00:00 +0100
 
 sojourner (0.3.3) fremantle; urgency=low
 
