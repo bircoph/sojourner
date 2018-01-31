@@ -35,6 +35,8 @@ setup(
         ('share/sojourner/conferences/fosdem2016', ['conferences/fosdem2016/fosdem2016.cfg']),
         ('share/sojourner/conferences/fosdem2017', ['conferences/fosdem2017/banner.png']),
         ('share/sojourner/conferences/fosdem2017', ['conferences/fosdem2017/fosdem2017.cfg']),
+        ('share/sojourner/conferences/fosdem2018', ['conferences/fosdem2018/banner.png']),
+        ('share/sojourner/conferences/fosdem2018', ['conferences/fosdem2018/fosdem2018.cfg']),
     ],
     license='GPL v3',
 )
